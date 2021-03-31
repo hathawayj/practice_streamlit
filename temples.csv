@@ -1,0 +1,234 @@
+Temple,Latitude,Longitude,LatitudeDegrees,LongitudeDegress,Address,City,State,Postal Code,Country,Phone,InstructionRooms,SealingRooms,BaptismRooms,SquareFootage,Acreage,Announcement,Groundbreaking,Dedication,US
+Kirtland Temple,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1832-12-27,1833-06-05,1836-03-27,NA
+Nauvoo Temple,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1840-08-31,1841-02-18,1846-05-01,NA
+Salt Lake Temple,40.770468,-111.891958,"40°46'13""N","111°53'31""W",50 West North Temple Street,Salt Lake City,Utah,84150-0701,United States,(+1) 801-240-2640,5,23,2,253000,10,1847-07-28,1853-02-14,1893-04-06,TRUE
+St. George Utah Temple,37.100535,-113.578041,"37°6'1""N","113°34'40""W",250 East 400 South,St. George,Utah,84770-3699,United States,(+1) 435-673-3533,3,18,1,110000,6,1871-01-31,1871-11-09,1877-04-06,TRUE
+Manti Utah Temple,39.272906,-111.63376,"39°16'22""N","111°38'1""W",Temple Hill,Manti,Utah,84642,United States,(+1) 435-835-2291,4,8,1,100373,27,1875-06-25,1877-04-25,1888-05-21,TRUE
+Logan Utah Temple,41.734161,-111.827943,"41°44'2""N","111°49'40""W",175 North 300 East,Logan,Utah,84321-4720,United States,(+1) 435-752-3611,4,11,1,119619,9,1876-10-06,1877-05-18,1884-05-17,TRUE
+Cardston Alberta Temple,49.19835,-113.309394,"49°11'54""N","113°18'33""W",348 3rd Street West,Cardston,Alberta,T0K 0K0,Canada,(+1) 403-653-3552,4,5,1,88562,10,1913-06-27,1913-11-09,1923-08-26,FALSE
+Laie Hawaii Temple,21.647207,-157.930658,"21°38'49""N","157°55'50""W",55-600 Naniloa Loop,Laie,Hawaii,96762-1299,United States,(+1) 808-293-2427,4,5,1,42100,11.4,1915-10-03,1916-02-08,1919-11-27,TRUE
+Mesa Arizona Temple,33.412876,-111.819571,"33°24'46""N","111°49'10""W",101 South LeSueur,Mesa,Arizona,85204-1031,United States,(+1) 480-833-1211,4,6,1,113916,20,1919-10-03,1922-04-25,1927-10-23,TRUE
+Idaho Falls Idaho Temple,43.499819,-112.0415,"43°29'59""N","112°2'29""W",1000 Memorial Drive,Idaho Falls,Idaho,83402-3497,United States,(+1) 208-522-7669,4,7,1,116250,7,1937-03-03,1939-12-19,1945-09-23,TRUE
+Los Angeles California Temple,34.052801,-118.433909,"34°3'10""N","118°26'2""W",10777 Santa Monica Boulevard,Los Angeles,California,90025-4718,United States,(+1) 310-474-5569,4,10,1,190614,13,1937-03-06,1951-09-22,1956-03-11,TRUE
+Bern Switzerland Temple,47.002192,7.458244,"47°0'7""N","7°27'29""E",Tempelstrasse 2,Zollikofen,Bern,CH-3052,Switzerland,(+41) 31-915-5252,4,7,1,35546,7,1952-07-01,1953-08-05,1955-09-11,FALSE
+London England Temple,51.162566,-0.052181,"51°9'45""N","-0°3'7""E",West Park Road,Newchapel,NA,RH7 6HW,United Kingdom,(+44) 1342 831-400,4,8,1,42652,32,1953-08-10,1955-08-27,1958-09-07,FALSE
+Hamilton New Zealand Temple,-37.826397,175.224885,"37°49'35""S","175°13'29""E",509 Tuhikaramea Road Temple View,Hamilton,NA,3218,New Zealand,(+64) 7-846-2750,1,5,1,44212,86,1955-02-17,1955-12-21,1958-04-20,FALSE
+Oakland California Temple,37.808027,-122.19912,"37°48'28""N","122°11'56""W",4770 Lincoln Avenue,Oakland,California,94602-2535,United States,(+1) 510-531-3200,4,7,1,80157,18.1,1961-01-23,1962-05-26,1964-11-17,TRUE
+Washington D.C. Temple,39.014079,-77.065624,"39°0'50""N","77°3'56""W",9900 Stoneybrook Drive,Kensington,Maryland,20895-3199,United States,(+1) 301-588-0650,6,14,1,160000,52,1968-11-15,1968-12-07,1974-11-19,TRUE
+Ogden Utah Temple,41.227786,-111.971506,"41°13'40""N","111°58'17""W",350 22nd Street,Ogden,Utah,84401-1487,United States,(+1) 801-621-6880,6,9,1,112232,9.96,1967-08-24,1969-09-08,1972-01-18,TRUE
+Provo Utah Temple,40.263666,-111.639779,"40°15'49""N","111°38'23""W",2200 Temple Hill Drive,Provo,Utah,84604-1766,United States,(+1) 801-375-5775,6,12,1,128325,17,1967-08-14,1969-09-15,1972-02-09,TRUE
+São Paulo Brazil Temple,-23.585174,-46.722764,"23°35'6""S","46°43'21""W",Avenida Professor Francisco Morato 2390 Caxingui,São Paulo,São Paulo,05512-900,Brazil,(+55) 11-3723-7600,2,4,1,59246,1.85,1975-03-01,1976-03-20,1978-10-30,FALSE
+Tokyo Japan Temple,35.652838,139.724539,"35°39'10""N","139°43'28""E",5-8-10 Minami Azabu Minato-Ku,Tokyo,NA,106-0047,Japan,NA,2,5,1,52590,0.46,1975-08-09,1978-04-10,1980-10-27,FALSE
+Seattle Washington Temple,47.58407,-122.140876,"47°35'2""N","122°8'27""W",2808 148th Avenue SE,Bellevue,Washington,98007-6453,United States,(+1) 425-643-5144,4,13,1,110000,23.5,1975-11-15,1978-05-27,1980-11-17,TRUE
+Jordan River Utah Temple,40.566354,-111.931417,"40°33'58""N","111°55'53""W",10200 South 1300 West,South Jordan,Utah,84095-8814,United States,(+1) 801-254-3003,6,16,1,148236,15,1978-02-03,1979-06-09,1981-11-16,TRUE
+Mexico City Mexico Temple,19.465905,-99.086754,"19°27'57""N","99°5'12""W",Avenida 510 no. 90 Colonia San Juan de Aragón,Mexico City,Distrito Federal,07950,Mexico,(+52) 55-5003-3700,4,11,1,116642,7,1976-04-03,1979-11-25,1983-12-02,FALSE
+Papeete Tahiti Temple,-17.536618,-149.556019,"17°32'11""S","149°33'21""W",Route de Fautaua?Titioro,Papeete,Tahiti,98716,French Polynesia,(+689) 40-50-3939,2,2,1,12150,1.7,1980-04-02,1981-02-13,1983-10-27,FALSE
+Nuku'alofa Tonga Temple,-21.162561,-175.27232,"21°9'45""S","175°16'20""W",Loto Road Liahona,Nuku'alofa,Tongatapu,NA,Tonga,(+676) 20-300,2,3,1,21184,1.2,1980-04-02,1981-02-18,1983-08-09,FALSE
+Apia Samoa Temple,-13.838064,-171.783034,"13°50'17""S","171°46'58""W",Vaitele Street,Pesega,Apia,NA,Samoa,(+685) 64-230,2,2,1,18691,2,1977-10-15,1981-02-19,1983-08-05,FALSE
+Atlanta Georgia Temple,33.931896,-84.362394,"33°55'54""N","84°21'44""W",6450 Barfield Road NE,Sandy Springs,Georgia,30328-4283,United States,(+1) 770-393-3698,4,4,1,34500,9.6,1980-04-02,1981-03-07,1983-06-01,TRUE
+Santiago Chile Temple,-33.436174,-70.609521,"33°26'10""S","70°36'34""W",Pocuro 1940 Providencia,Santiago,Región Metropolitana,664-1404,Chile,(+56) 22-340-5070,2,3,1,20831,2.61,1980-04-02,1981-05-30,1983-09-15,FALSE
+Sydney Australia Temple,-33.775617,151.050592,"33°46'32""S","151°3'2""E",756 Pennant Hills Road (Corner of Pennant Hills Road and Moseley Street),Carlingford,New South Wales,2118,Australia,(+61) 2-9841-5471,2,3,1,30677,3,1980-04-02,1982-08-13,1984-09-20,FALSE
+Manila Philippines Temple,14.601356,121.069818,"14°36'4""N","121°4'11""E",13 Temple Drive Greenmeadows Subdivision,Quezon City,Metro Manila,1110,Philippines,(+63) 2-635-0954,4,3,1,26683,3.5,1981-04-01,1982-08-25,1984-09-25,FALSE
+Taipei Taiwan Temple,25.031377,121.527794,"25°1'52""N","121°31'40""E",256 Ai Kuo East Road,Taipei,NA,106,Taiwan,(+886) 2-2192-4930,4,3,1,9945,0.5,1982-03-31,1982-08-27,1984-11-17,FALSE
+Lima Peru Temple,-12.069713,-76.948897,"12°4'10""S","76°56'56""W",Av. Javier Prado Este 6420 Urb. Santa Patricia La Molina,Lima,Lima,12,Peru,(+51) 1-612-7200,4,3,1,9600,4.5,1981-04-01,1982-09-11,1986-01-10,FALSE
+Guatemala City Guatemala Temple,14.583303,-90.485576,"14°34'59""N","90°29'8""W",24 Avenida 2-20 Zona 15 Vista Hermosa 1,Guatemala City,Guatemala,NA,Guatemala,(+502) 2369-3426,4,3,1,11610,1.4,1981-04-01,1982-09-12,1984-12-14,FALSE
+Johannesburg South Africa Temple,-26.178051,28.039195,"26°10'40""S","28°2'21""E",7 Jubilee Road Parktown,Johannesburg,NA,2193,South Africa,(+27) 11-645-1540,4,3,1,19184,1,1981-04-01,1982-11-27,1985-08-24,FALSE
+Boise Idaho Temple,43.593523,-116.275034,"43°35'36""N","116°16'30""W",1211 South Cole Road,Boise,Idaho,83709-1871,United States,(+1) 208-322-4422,4,4,1,35868,4.83,1982-03-31,1982-12-18,1984-05-25,TRUE
+Dallas Texas Temple,32.914288,-96.796525,"32°54'51""N","96°47'47""W",6363 Willow Lane,Dallas,Texas,75230-2227,United States,(+1) 972-991-1273,5,4,1,44207,6,1981-04-01,1983-01-22,1984-10-19,TRUE
+Buenos Aires Argentina Temple,-34.729286,-58.518225,"34°43'45""S","58°31'5""W",Autopista Richieri y Puente 13 Ciudad Evita,Buenos Aires,NA,B1778 DUA,Argentina,(+54) 11-4693-9700,4,3,1,30659,3.73,1980-04-02,1983-04-20,1986-01-17,FALSE
+Freiberg Germany Temple,50.922315,13.322541,"50°55'20""N","13°19'21""E",Hainichener Strasse 64,Freiberg,Sachsen,DE-09599,Germany,(+49) 3731-35960,2,2,1,21500,3.58,1982-10-09,1983-04-23,1985-06-29,FALSE
+Seoul Korea Temple,37.558913,126.931286,"37°33'32""N","126°55'52""E",500-23 Changcheon-dong Seodaemun-gu,Seoul-si,Seoul-teukbyeolsi,120-836,South Korea,(+82) 2-334-9100,4,3,1,28057,1,1981-04-01,1983-05-09,1985-12-14,FALSE
+Chicago Illinois Temple,42.086829,-87.859501,"42°5'12""N","87°51'34""W",4151 West Lake Avenue,Glenview,Illinois,60025-1240,United States,(+1) 847-299-6500,5,3,1,37062,13,1981-04-01,1983-08-13,1985-08-09,TRUE
+Stockholm Sweden Temple,59.124676,18.109177,"59°7'28""N","18°6'33""E",Tempelvägen 5,Västerhaninge,NA,SE-13742,Sweden,(+46) 8-5006-5500,4,3,1,16366,4.47,1981-04-01,1984-03-17,1985-07-02,FALSE
+Denver Colorado Temple,39.568698,-104.965782,"39°34'7""N","104°57'56""W",2001 East Phillips Circle,Centennial,Colorado,80122,United States,(+1) 303-730-0220,4,5,1,29117,7.5,1982-03-31,1984-05-19,1986-10-24,TRUE
+Frankfurt Germany Temple,50.258246,8.641316,"50°15'29""N","8°38'28""E",Talstrasse 10,Friedrichsdorf,Hessen,DE-61381,Germany,(+49) 6172-59000,4,4,1,32895,5.6,1981-04-01,1985-07-01,1987-08-28,FALSE
+Las Vegas Nevada Temple,36.174597,-115.020052,"36°10'28""N","115°1'12""W",827 Temple View Drive,Las Vegas,Nevada,89110-2920,United States,(+1) 702-452-5011,4,5,1,80350,10.3,1984-04-07,1985-11-30,1989-12-16,TRUE
+Portland Oregon Temple,45.425345,-122.742224,"45°25'31""N","122°44'32""W",13600 SW Kruse Oaks Boulevard,Lake Oswego,Oregon,97035-8602,United States,(+1) 503-639-7066,4,14,1,80500,7.3,1984-04-07,1986-09-20,1989-08-19,TRUE
+Toronto Ontario Temple,43.744338,-79.746059,"43°44'39""N","79°44'45""W",10060 Bramalea Road,Brampton,Ontario,L6R 1A1,Canada,(+1) 905-799-1122,4,6,1,57982,13.4,1984-04-07,1987-10-10,1990-08-25,FALSE
+San Diego California Temple,32.866389,-117.228769,"32°51'59""N","117°13'43""W",7474 Charmant Drive,San Diego,California,92122-5000,United States,(+1) 858-622-0991,4,8,1,72000,7.2,1984-04-07,1988-02-27,1993-04-25,TRUE
+Bountiful Utah Temple,40.882853,-111.846812,"40°52'58""N","111°50'48""W",640 South Bountiful Boulevard,Bountiful,Utah,84010-1394,United States,(+1) 801-296-2100,4,8,1,104000,9,1990-02-02,1992-05-02,1995-01-08,TRUE
+Orlando Florida Temple,28.507348,-81.509578,"28°30'26""N","81°30'34""W",9000 Windy Ridge Road,Windermere,Florida,34786-8347,United States,(+1) 407-876-0022,4,5,1,70000,13,1990-02-17,1992-06-20,1994-10-09,TRUE
+Bogotá Colombia Temple,4.707801,-74.056247,"4°42'28""N","74°3'22""W",Carrera 46 no. 127?45,Bogotá,Distrito,Capital,Colombia,(+57) 1-625-8000,4,3,1,53500,3.71,1984-04-07,1993-06-26,1999-04-24,FALSE
+Mount Timpanogos Utah Temple,40.393166,-111.770509,"40°23'35""N","111°46'13""W",742 North 900 East,American Fork,Utah,84003-9124,United States,(+1) 801-763-4540,4,8,1,107240,16.7,1992-10-03,1993-10-09,1996-10-13,TRUE
+St. Louis Missouri Temple,38.639651,-90.464685,"38°38'22""N","90°27'52""W",12555 North Outer Forty Drive,St. Louis,Missouri,63141-8620,United States,(+1) 314-514-1122,4,4,1,58749,14,1990-12-29,1993-10-30,1997-06-01,TRUE
+Hong Kong China Temple,22.34045,114.177336,"22°20'25""N","114°10'38""E",2 Cornwall Street Kowloon Tong,Kowloon City,NA,NA,Hong Kong,(+852) 2339-8100,2,2,1,21744,0.3,1992-10-03,1994-01-22,1996-05-26,FALSE
+Preston England Temple,53.672476,-2.631275,"53°40'20""N","2°37'52""W",Temple Way Hartwood Green Chorley,Lancashire,NA,PR6 7EQ,United Kingdom,(+44) 1257-226-100,4,4,1,69630,15,1992-10-19,1994-06-12,1998-06-07,FALSE
+Vernal Utah Temple,40.453205,-109.537413,"40°27'11""N","109°32'14""W",170 South 400 West,Vernal,Utah,84078-2536,United States,(+1) 435-789-3220,2,3,1,38771,1.6,1994-02-13,1995-05-13,1997-11-02,TRUE
+Madrid Spain Temple,40.40009,-3.63158,"40°24'0""N","3°37'53""W",Calle del Templo no. 2,Madrid,NA,ES-28030,Spain,(+34) 91-214-2607,4,4,1,45800,3.5,1993-04-04,1996-06-11,1999-03-19,FALSE
+Guayaquil Ecuador Temple,-2.156246,-79.904877,"2°9'22""S","79°54'17""W",Calle 6ta y Avenida Rodrigo Chávez González Principado de las Lomas,Urdesa Norte,Guayaquil,NA,Ecuador,(+593) 4-371-8100,4,3,1,45000,6.2,1982-03-31,1996-08-10,1999-08-01,FALSE
+Santo Domingo Dominican Republic Temple,18.466567,-69.917144,"18°27'59""N","69°55'1""W",Avenida Bolivar no. 825 Los Robles,Santo Domingo,Distrito Nacional,10106,Dominican Republic,(+1) 809-731-2000,4,4,1,67000,6.42,1993-11-16,1996-08-18,2000-09-17,FALSE
+Cochabamba Bolivia Temple,-17.363644,-66.147644,"17°21'49""S","66°8'51""W",Avenida Melchor Urquidi 1500 Alto Queru Queru,Cochabamba,Cochabamba,NA,Bolivia,(+591) 4-429-3161,2,3,1,33302,6.67,1995-01-13,1996-11-10,2000-04-30,FALSE
+Recife Brazil Temple,-8.03639,-34.911123,"8°2'11""S","34°54'40""W",Rua Dr. José de Góes 284 Parnamirim,Recife,Pernambuco,52060-380,Brazil,(+55) 81-2129-4300,2,3,1,37200,5.59,1995-01-13,1996-11-11,2000-12-15,FALSE
+Boston Massachusetts Temple,42.412002,-71.188091,"42°24'43""N","71°11'17""W",100 Hinckley Way (formerly 86 Frontage Road),Belmont,Massachusetts,02478-2135,United States,(+1) 617-993-9993,4,4,1,69600,8,1995-09-30,1997-06-13,2000-10-01,TRUE
+Monticello Utah Temple,37.877917,-109.347066,"37°52'40""N","109°20'49""W",365 North 200 West,Monticello,Utah,84535,United States,(+1) 435-587-3500,2,2,1,11225,1.33,1997-10-04,1997-11-17,1998-07-26,TRUE
+Colonia Juárez Chihuahua Mexico Temple,30.305251,-108.082038,"30°18'18""N","108°4'55""W",Calles Chihuahua y Díaz,Colonia Juárez,Chihuahua,31857,Mexico,(+52) 636-695-0144,1,1,1,6800,2.56,1997-10-04,1998-03-07,1999-03-06,FALSE
+Billings Montana Temple,45.800505,-108.63939,"45°48'1""N","108°38'21""W",3100 Rim Point Drive,Billings,Montana,59106-1386,United States,(+1) 406-655-0607,2,3,1,33800,10,1996-08-30,1998-03-30,1999-11-20,TRUE
+Anchorage Alaska Temple,61.101627,-149.840512,"61°6'5""N","149°50'25""W",13161 Brayton Drive,Anchorage,Alaska,99516,United States,(+1) 907-348-7890,2,1,1,11937,5.4,1997-10-04,1998-04-17,1999-01-09,TRUE
+Campinas Brazil Temple,-22.896534,-47.001133,"22°53'47""S","47°0'4""W",Rua James Esdras Faust 400 Notre Dame,Campinas,São Paulo,13092-820,Brazil,(+55) 19-2102-5800,4,3,1,48100,6.18,1997-04-03,1998-05-01,2002-05-17,FALSE
+Porto Alegre Brazil Temple,-30.034047,-51.157868,"30°2'2""S","51°9'28""W",Rua General Salvador Pinheiro 50 Vila Jardim,Porto Alegre,Rio Grande do Sul,91320-240,Brazil,(+55) 51-2104-2700,2,2,1,10700,2,1997-09-30,1998-05-02,2000-12-17,FALSE
+Houston Texas Temple,29.999729,-95.533038,"29°59'59""N","95°31'58""W",15725 Champion Forest Drive,Spring,Texas,77379-7036,United States,(+1) 281-376-6804,2,3,1,33970,11,1997-09-30,1998-06-13,2000-08-26,TRUE
+Albuquerque New Mexico Temple,35.167684,-106.525301,"35°10'3""N","106°31'31""W",10301 San Francisco Drive NE,Albuquerque,New Mexico,87122-3437,United States,(+1) 505-822-5110,2,3,1,34245,8.5,1997-04-04,1998-06-20,2000-03-05,TRUE
+Columbus Ohio Temple,39.994089,-83.113214,"39°59'38""N","83°6'47""W",3870 Gateway Boulevard,Columbus,Ohio,43228,United States,(+1) 614-351-5001,2,2,1,10700,1.35,1998-04-25,1998-09-12,1999-09-04,TRUE
+St. Paul Minnesota Temple,44.980261,-92.965199,"44°58'48""N","92°57'54""W",2150 Hadley Avenue North,Oakdale,Minnesota,55128-4505,United States,(+1) 651-748-5910,2,2,1,10700,7.5,1998-07-29,1998-09-26,2000-01-09,TRUE
+Detroit Michigan Temple,42.566266,-83.229983,"42°33'58""N","83°13'47""W",37425 Woodward Avenue,Bloomfield Hills,Michigan,48304,United States,(+1) 248-593-0690,2,2,1,10700,6.34,1998-08-10,1998-10-10,1999-10-23,TRUE
+Spokane Washington Temple,47.620163,-117.22069,"47°37'12""N","117°13'14""W",13710 East 40th Avenue,Spokane,Washington,99206,United States,(+1) 509-926-2824,2,2,1,10700,2,1998-08-13,1998-10-10,1999-08-21,TRUE
+Halifax Nova Scotia Temple,44.66999,-63.489038,"44°40'11""N","63°29'20""W",44 Cumberland Drive,Dartmouth,Nova Scotia,B2V 1P1,Canada,(+1) 902-434-6920,2,2,1,10700,2,1998-05-07,1998-10-12,1999-11-14,FALSE
+Bismarck North Dakota Temple,46.838889,-100.813979,"46°50'20""N","100°48'50""W",2930 Cody Drive,Bismarck,North Dakota,58503,United States,(+1) 701-258-9590,2,2,1,10700,1.6,1998-07-29,1998-10-17,1999-09-19,TRUE
+Regina Saskatchewan Temple,50.420981,-104.54168,"50°25'15""N","104°32'30""W",111 Wascana Gate North,Regina,Saskatchewan,S4V 2J6,Canada,(+1) 306-545-8194,2,2,1,10700,1,1998-08-03,1998-11-14,1999-11-14,FALSE
+Tampico Mexico Temple,22.254262,-97.855869,"22°15'15""N","97°51'21""W",Avenida Ejército Mexicano no. 74 con 3A Avenida Colonia Lomas del Gallo,Ciudad Madero,Tamaulipas,89480,Mexico,(+52) 833-216-9660,2,2,1,10700,2.96,1998-07-08,1998-11-28,2000-05-20,FALSE
+Columbia South Carolina Temple,33.959638,-80.893981,"33°57'34""N","80°53'38""W",2905 Trotter Road,Hopkins,South Carolina,29061-9573,United States,(+1) 803-647-9472,2,2,1,10700,3.6,1998-09-11,1998-12-05,1999-10-16,TRUE
+Hermosillo Sonora Mexico Temple,29.102548,-110.94687,"29°6'9""N","110°56'48""W",General Pedro García Conde no. 303 Esquina Con Juan José Ríos Colonia Pitic,Hermosillo,Sonora,83150,Mexico,(+52) 662-210-5660,2,2,1,10769,1.54,1998-07-20,1998-12-05,2000-02-27,FALSE
+Ciudad Juárez Mexico Temple,31.736269,-106.463209,"31°44'10""N","106°27'47""W",Calle Paraguay #290 Esquina José Borunda Colonia Partido Romero,Ciudad Juárez,Chihuahua,32177,Mexico,(+52) 656-611-5146,2,2,1,10700,1.64,1998-05-07,1999-01-09,2000-02-26,FALSE
+Villahermosa Mexico Temple,17.981276,-92.937375,"17°58'52""N","92°56'14""W",Avenida 27 de Febrero no. 1717 Colonia Atasta de Serra,Villahermosa,Tabasco,86100,Mexico,(+52) 993-352-2028,2,2,1,10700,1.36,1998-10-30,1999-01-09,2000-05-21,FALSE
+Caracas Venezuela Temple,10.470849,-66.837293,"10°28'15""N","66°50'14""W",Avenida C con Calle C-1 Urbanización Caurimare,Caracas,Distrito Federal,1062-A,Venezuela,(+58) 212-981-1873,2,2,1,15332,0.5,1995-09-30,1999-01-10,2000-08-20,FALSE
+Memphis Tennessee Temple,35.240752,-89.839334,"35°14'26""N","89°50'21""W",4199 Kirby-Whitten Parkway,Bartlett,Tennessee,38135,United States,(+1) 901-379-0202,2,2,1,10890,6.35,1998-09-17,1999-01-16,2000-04-23,TRUE
+Mérida Mexico Temple,20.965784,-89.631061,"20°57'56""N","89°37'51""W",Calle 70 no. 527 Esquina 65 y 67 Colonia Centro,Mérida,Yucatán,97000,Mexico,(+52) 999-928-1643,2,2,1,10700,1.53,1998-09-25,1999-01-16,2000-07-08,FALSE
+Raleigh North Carolina Temple,35.732111,-78.861542,"35°43'55""N","78°51'41""W",574 Bryan Drive,Apex,North Carolina,27502,United States,(+1) 919-362-4135,2,2,1,12864,3.17,1998-09-03,1999-02-06,1999-12-18,TRUE
+Edmonton Alberta Temple,53.489593,-113.570538,"53°29'22""N","113°34'13""W",14325 53rd Avenue NW,Edmonton,Alberta,T6H 5G6,Canada,(+1) 780-434-7436,2,2,1,10700,1,1998-08-11,1999-02-27,1999-12-11,FALSE
+Kona Hawaii Temple,19.641614,-155.985524,"19°38'29""N","155°59'7""W",75-230 Kalani Street,Kailua Kona,Hawaii,96740-1833,United States,(+1) 808-331-8504,2,2,1,10700,7.02,1998-05-07,1999-03-13,2000-01-23,TRUE
+Nashville Tennessee Temple,35.948839,-86.860329,"35°56'55""N","86°51'37""W",1100 Gray Fox Lane,Franklin,Tennessee,37069,United States,(+1) 615-791-8668,2,2,1,10700,6.86,1994-11-09,1999-03-13,2000-05-21,TRUE
+Oaxaca Mexico Temple,17.041554,-96.713503,"17°2'29""N","96°42'48""W",Avenida Universidad no. 139 Fraccionamiento Real de Candiani,Oaxaca,Oaxaca,68130,Mexico,(+52) 951-516-9588,2,2,1,10700,1.87,1999-02-23,1999-03-13,2000-03-11,FALSE
+Fresno California Temple,36.828257,-119.852911,"36°49'41""N","119°51'10""W",6290 North Valentine Avenue,Fresno,California,93711,United States,(+1) 559-437-9451,2,2,1,10700,2.34,1999-01-08,1999-03-20,2000-04-09,TRUE
+Fukuoka Japan Temple,33.572618,130.391704,"33°34'21""N","130°23'30""E",9-15 Hirao Johsui Machi Chuo-ku,Fukuoka-shi,Fukuoka-ken,810-0029,Japan,(+81) 92-525-8255,2,2,1,10700,1.25,1998-05-07,1999-03-20,2000-06-11,FALSE
+Melbourne Australia Temple,-37.868774,145.212622,"37°52'7""S","145°12'45""E",76 Cathies Lane,Wantirna South,Victoria,3152,Australia,(+61) 3-9881-9700,2,2,1,10700,5.98,1998-10-30,1999-03-20,2000-06-16,FALSE
+Tuxtla Gutiérrez Mexico Temple,16.764164,-93.159155,"16°45'50""N","93°9'32""W",Carretera a Chicoasen Chiapas Kilómetro 14 Esquina Paseo de la Roseta Fraccionamiento San José Chapultepec,Tuxtla Gutiérrez,Chiapas,29047,Mexico,(+52) 961-615-8287,2,2,1,10700,1.56,1999-02-25,1999-03-20,2000-03-12,FALSE
+Montreal Quebec Temple,45.563335,-73.490616,"45°33'48""N","73°29'26""W",1450 Boulevard Marie-Victorin,Longueuil,Quebec,J4G 1A4,Canada,(+1) 450-646-5775,2,2,1,11550,2.4,1998-08-06,1999-04-09,2000-06-04,FALSE
+Copenhagen Denmark Temple,55.692677,12.53392,"55°41'33""N","12°32'2""E",Priorvej 12,Frederiksberg,NA,DK-2000,Denmark,(+45) 38-18-1818,2,2,1,25000,0.6,1999-03-17,1999-04-24,2004-05-23,FALSE
+San José Costa Rica Temple,9.986418,-84.184831,"9°59'11""N","84°11'5""W",Del Hotel Marriott 600 Metros Oeste La Ribera de Belén,Heredia,NA,40702,Costa Rica,(+506) 2293-6681,2,2,1,10700,1.93,1999-03-17,1999-04-24,2000-06-04,FALSE
+Montevideo Uruguay Temple,-34.888444,-56.074088,"34°53'18""S","56°4'26""W",Bolonia 1722 Carrasco,Montevideo,NA,11500,Uruguay,(+598) 2604-7300,2,2,1,10700,1.59,1998-11-02,1999-04-27,2001-03-18,FALSE
+Baton Rouge Louisiana Temple,30.362664,-91.108385,"30°21'45""N","91°6'30""W",10339 Highland Road,Baton Rouge,Louisiana,70810,United States,(+1) 225-769-1197,2,2,1,10890,6.3,1998-10-14,1999-05-08,2000-07-16,TRUE
+Suva Fiji Temple,-18.119705,178.438559,"18°7'10""S","178°26'18""E",2-20 Lakeba Street,Samabula,Suva,NA,Fiji,(+679) 338-8952,2,2,1,12755,4.7,1998-05-07,1999-05-08,2000-06-18,FALSE
+Medford Oregon Temple,42.373324,-122.932746,"42°22'23""N","122°55'57""W",3900 Grant Road,Central Point,Oregon,97502,United States,(+1) 541-664-2050,2,2,1,10700,2,1999-03-15,1999-05-20,2000-04-16,TRUE
+Palmyra New York Temple,43.039148,-77.237063,"43°2'20""N","77°14'13""W",2720 Temple Road,Palmyra,New York,14522,United States,(+1) 315-597-6001,2,2,1,10900,5,1999-02-21,1999-05-25,2000-04-06,TRUE
+Adelaide Australia Temple,-34.892473,138.635002,"34°53'32""S","138°38'6""E",53-59 Lower Portrush Road,Marden,South Australia,5070,Australia,(+61) 8-8363-8000,2,2,1,10700,6.94,1999-03-17,1999-05-29,2000-06-15,FALSE
+Louisville Kentucky Temple,38.32112,-85.488843,"38°19'16""N","85°29'19""W",7116 West Highway 22,Crestwood,Kentucky,40014,United States,(+1) 502-241-4115,2,2,1,10700,3,1999-03-17,1999-05-29,2000-03-19,TRUE
+Veracruz Mexico Temple,19.13441,-96.10626,"19°8'3""N","96°6'22""W",Avenida Ejército Mexicano Esquina Michoacán Colonia Luís Echeverría,Boca del Río,Veracruz,94290,Mexico,(+52) 229-922-9621,2,2,1,10700,3.39,1999-04-14,1999-05-29,2000-07-09,FALSE
+Guadalajara Mexico Temple,20.66155,-103.42307,"20°39'41""N","103°25'23""W",Avenida Patria no. 879 Fraccionamiento Jardines Tepeyac,Zapopán,Jalisco,45030,Mexico,(+52) 33-3125-1283,2,2,1,10700,2.69,1999-04-14,1999-06-12,2001-04-29,FALSE
+Oklahoma City Oklahoma Temple,35.591846,-97.7267,"35°35'30""N","97°43'36""W",12030 North Mustang Road,Yukon,Oklahoma,73099,United States,(+1) 405-373-2309,2,2,1,10890,1,1999-03-14,1999-07-03,2000-07-30,TRUE
+Reno Nevada Temple,39.534611,-119.898913,"39°32'4""N","119°53'56""W",2000 Beaumont Parkway,Reno,Nevada,89523,United States,(+1) 775-747-6688,2,2,1,10700,7.9,1999-04-12,1999-07-24,2000-04-23,TRUE
+Birmingham Alabama Temple,33.674623,-86.821236,"33°40'28""N","86°49'16""W",1927 Mount Olive Boulevard,Gardendale,Alabama,35071,United States,(+1) 205-631-3444,2,2,1,10700,5.6,1998-09-11,1999-10-09,2000-09-03,TRUE
+Nauvoo Illinois Temple,40.55048,-91.384378,"40°33'1""N","91°23'3""W",50 North Wells Street,Nauvoo,Illinois,62354,United States,(+1) 217-453-6252,4,6,1,54000,3.3,1999-04-04,1999-10-24,2002-06-27,TRUE
+Perth Australia Temple,-31.906905,115.869834,"31°54'24""S","115°52'11""E",163-173 Wordsworth Avenue,Yokine,Western Australia,6060,Australia,(+61) 8-9276-0000,2,2,1,10700,2.76,1999-06-11,1999-11-20,2001-05-20,FALSE
+Winter Quarters Nebraska Temple,41.334075,-95.96619,"41°20'2""N","95°57'58""W",8283 North 34th Street,Omaha,Nebraska,68112-2114,United States,(+1) 402-453-3406,2,2,1,16000,1.92,1999-06-14,1999-11-28,2001-04-22,TRUE
+The Hague Netherlands Temple,52.054487,4.502979,"52°3'16""N","4°30'10""E",Osijlaan 2,Zoetermeer,NA,NL-2722 CV,Netherlands,(+31) 79-343-5310,2,2,1,10500,2.7,1999-08-16,2000-08-26,2002-09-08,FALSE
+Snowflake Arizona Temple,34.502494,-110.111607,"34°30'8""N","110°6'41""W",1875 West Canyon Drive,Snowflake,Arizona,85937,United States,(+1) 928-536-6626,2,2,1,18621,7.5,2000-04-02,2000-09-23,2002-03-03,TRUE
+Columbia River Washington Temple,46.226733,-119.274893,"46°13'36""N","119°16'29""W",969 Gage Boulevard,Richland,Washington,99352,United States,(+1) 509-628-0990,2,2,1,16880,2.88,2000-04-02,2000-10-28,2001-11-18,TRUE
+Lubbock Texas Temple,33.528961,-101.941413,"33°31'44""N","101°56'29""W",7016 Frankford Avenue,Lubbock,Texas,79424,United States,(+1) 806-794-0774,2,2,1,16498,2.7,2000-04-02,2000-11-04,2002-04-21,TRUE
+Monterrey Mexico Temple,25.589364,-100.259975,"25°35'21""N","100°15'35""W",Avenida Eugenio Garza Sada Esquina Privada Valle de la Estanzuela Colonia Valle Alto,Monterrey,Nuevo León,64989,Mexico,(+52) 81-8104-0635,2,2,1,16498,7.78,1995-12-21,2000-11-04,2002-04-28,FALSE
+Asunción Paraguay Temple,-25.287916,-57.602869,"25°17'16""S","57°36'10""W",Esquina Brasilia y España,Asunción,NA,1441,Paraguay,(+595) 21-216-92,2,2,1,11906,1.13,2000-04-02,2001-02-03,2002-05-19,FALSE
+Brisbane Australia Temple,-27.480886,153.033841,"27°28'51""S","153°2'1""E",200 River Terrace,Kangaroo Point,Queensland,4169,Australia,(+61) 7-3240-3600,2,2,1,10700,0.86,1998-07-20,2001-05-26,2003-06-15,FALSE
+Accra Ghana Temple,5.56749,-0.193706,"5°34'2""N","-0°11'37""E",57 Independence Avenue North Ridge PMB CT 209 Cantonments,Accra,NA,NA,Ghana,(+233) 302-650-123,2,2,1,17500,6,1998-02-16,2001-11-16,2004-01-11,FALSE
+Redlands California Temple,34.049037,-117.140579,"34°2'56""N","117°8'26""W",1761 5th Avenue,Redlands,California,92374,United States,(+1) 909-389-7369,2,3,1,17300,4.6,2001-04-21,2001-12-01,2003-09-14,TRUE
+Aba Nigeria Temple,5.147644,7.356719,"5°8'51""N","7°21'24""E",Okpu-Umuoba Road Off Aba-Owerri Road at Union Bank,Aba,Abia State,NA,Nigeria,(+234) 80-3903-4804,2,2,1,11500,6.3,2000-04-02,2002-02-23,2005-08-07,FALSE
+Manhattan New York Temple,40.773112,-73.981622,"40°46'23""N","73°58'53""W",125 Columbus Avenue,New York,New York,10023-6514,United States,(+1) 917-441-8220,2,2,1,20630,0.3,2002-08-07,2002-09-23,2004-06-13,TRUE
+Helsinki Finland Temple,60.225193,24.781785,"60°13'30""N","24°46'54""E",Leppäsillantie 3,Espoo,NA,FI-02620,Finland,(+358) 9-849-3710,2,2,1,16350,7.4,2000-04-02,2003-03-29,2006-10-22,FALSE
+San Antonio Texas Temple,29.641481,-98.488789,"29°38'29""N","98°29'19""W",20080 Stone Oak Parkway,San Antonio,Texas,78258-6920,United States,(+1) 210-538-0034,2,2,1,16800,5.5,2001-06-24,2003-03-29,2005-05-22,TRUE
+Newport Beach California Temple,33.629627,-117.848766,"33°37'46""N","117°50'55""W",2300 Bonita Canyon Drive,Newport Beach,California,92660-9118,United States,(+1) 949-644-1820,2,3,1,17800,8.8,2001-04-21,2003-08-15,2005-08-28,TRUE
+Sacramento California Temple,38.635116,-121.193925,"38°38'6""N","121°11'38""W",2110 California Circle,Rancho Cordova,California,95742,United States,(+1) 916-357-5870,2,4,1,19500,46,2001-04-21,2004-08-22,2006-09-03,TRUE
+Curitiba Brazil Temple,-25.441304,-49.342138,"25°26'28""S","49°20'31""W",Rua Deputado Heitor Alencar Furtado 3641 Mossunguê,Curitiba,Paraná,81200-110,Brazil,(+55) 41-3204-6650,2,2,1,27850,8.15,2002-08-23,2005-03-10,2008-06-01,FALSE
+Rexburg Idaho Temple,43.810922,-111.778979,"43°48'39""N","111°46'44""W",750 South 2nd East,Rexburg,Idaho,83440-5404,United States,(+1) 208-656-0880,4,5,1,57504,10,2003-12-12,2005-07-30,2008-02-10,TRUE
+Panama City Panama Temple,8.99146,-79.57048,"8°59'29""N","79°34'13""W",Calle Rufina 3172,Ancón,Cárdenas,NA,Panama,(+507) 201-6233,2,2,1,18943,6.96,2002-08-23,2005-10-30,2008-08-10,FALSE
+Twin Falls Idaho Temple,42.586827,-114.441509,"42°35'12""N","114°26'29""W",1405 Eastland Drive North,Twin Falls,Idaho,83301,United States,(+1) 208-736-7070,2,3,1,31245,9.1,2004-10-02,2006-04-15,2008-08-24,TRUE
+Draper Utah Temple,40.495893,-111.840748,"40°29'45""N","111°50'26""W",14065 Canyon Vista Lane,Draper,Utah,84020-5626,United States,(+1) 801-576-4240,4,5,1,58300,12,2004-10-02,2006-08-05,2009-03-20,TRUE
+Oquirrh Mountain Utah Temple,40.551145,-111.98751,"40°33'4""N","111°59'15""W",11022 South 4000 West,South Jordan,Utah,84095-5797,United States,(+1) 801-878-3800,4,6,1,60000,11,2005-10-01,2006-12-16,2009-08-21,TRUE
+Kyiv Ukraine Temple,50.404517,30.395565,"50°24'16""N","30°23'44""E",1 Yabluneva Street v. Sofiivs'ka Borshchagivka,Kyevo-Sviatoshyns'ky Rayon,Kyivs'ka Oblast,08131,Ukraine,(+380) 44-371-4088,2,2,1,22184,12.35,1998-07-20,2007-06-23,2010-08-29,FALSE
+Vancouver British Columbia Temple,49.151212,-122.658009,"49°9'4""N","122°39'28""W",20370 82nd Avenue,Langley,British Columbia,V2Y 2A9,Canada,(+1) 604-513-5933,2,2,1,28165,11.6,2006-05-25,2007-08-04,2010-05-02,FALSE
+Cebu City Philippines Temple,10.327659,123.898299,"10°19'39""N","123°53'53""E",Gorordo Avenue Barangay Lahug,Cebu City,Cebu,6000,Philippines,(+63) 32-230-1207,2,2,1,29556,11.6,2006-04-18,2007-11-14,2010-06-13,FALSE
+Manaus Brazil Temple,-3.073907,-60.089331,"3°4'26""S","60°5'21""W",Avenida Coronel Texeira 3162 Ponta Negra,Manaus,Amazonas,69037-000,Brazil,(+55) 92-3212-7270,2,2,1,32032,7.7,2007-05-23,2008-06-20,2012-06-10,FALSE
+San Salvador El Salvador Temple,13.683347,-89.246822,"13°41'0""N","89°14'48""W",Avenida El Espino y Calle El Pedregal Colonia San Benito,Antiguo Cuscatlán,La Libertad,NA,El Salvador,(+503) 2520-2631,2,2,1,27986,6.5,2007-11-18,2008-09-20,2011-08-21,FALSE
+The Gila Valley Arizona Temple,32.862971,-109.789974,"32°51'46""N","109°47'23""W",5291 West Highway 70,Central,Arizona,85531,United States,(+1) 928-428-7243,2,2,1,18561,17,2008-04-26,2009-02-14,2010-05-23,TRUE
+Quetzaltenango Guatemala Temple,14.846493,-91.542517,"14°50'47""N","91°32'33""W",9a Calle 4-03 Zona 9 Frente a Residenciales Los Cerezos 1,Quetzaltenango,NA,09000,Guatemala,(+502) 7728-1603,2,2,1,21085,6.47,2006-12-16,2009-03-14,2011-12-11,FALSE
+Tegucigalpa Honduras Temple,14.052174,-87.238019,"14°3'7""N","87°14'16""W",Residenciales Roble Oeste Boulevard Roble Oeste 3ra Calle Sur,Comayagüela,Francisco Morazán,NA,Honduras,(+504) 2264-1212,2,2,1,28254,13.6,2006-06-09,2009-09-12,2013-03-17,FALSE
+Kansas City Missouri Temple,39.220473,-94.501331,"39°13'13""N","94°30'4""W",7001 Searcy Creek Parkway,Kansas City,Missouri,NA,United States,(+1) 816-413-1430,2,3,1,32000,8.05,2008-10-04,2010-05-08,2012-05-06,TRUE
+Calgary Alberta Temple,51.140861,-114.2333,"51°8'27""N","114°13'59""W",9802 Rocky Ridge Road NW,Calgary,Alberta,T3G 5J7,Canada,(+1) 403-241-4250,2,3,1,33000,10.17,2008-10-04,2010-05-15,2012-10-28,FALSE
+Brigham City Utah Temple,41.505376,-112.016592,"41°30'19""N","112°0'59""W",250 South Main Street,Brigham City,Utah,84302-2120,United States,(+1) 435-695-2170,2,3,1,36000,3.14,2009-10-03,2010-07-31,2012-09-23,TRUE
+Rome Italy Temple,41.970437,12.544764,"41°58'13""N","12°32'41""E",Via di Settebagni 376,Rome,NA,NA,Italy,(+39) 06-9480-5050,2,3,1,41010,14.5,2008-10-04,2010-10-23,2019-03-10,FALSE
+Córdoba Argentina Temple,-31.358873,-64.245809,"31°21'31""S","64°14'44""W",Avenida Pedro Simón Laplace 5637 Villa Belgrano,Córdoba,NA,NA,Argentina,(+54) 354-340-6200,2,2,1,34369,5.18,2008-10-04,2010-10-30,2015-05-17,FALSE
+Gilbert Arizona Temple,33.291378,-111.737365,"33°17'28""N","111°44'14""W",3301 S Greenfield Rd,Gilbert,Arizona,85297,United States,(+1) 480-822-5000,3,7,1,85326,15.38,2008-04-26,2010-11-13,2014-03-02,TRUE
+Phoenix Arizona Temple,33.698555,-112.172329,"33°41'54""N","112°10'20""W",5220 West Pinnacle Peak Road,Phoenix,Arizona,85310,United States,(+1) 623-474-9500,2,4,1,64870,5.19,2008-05-24,2011-06-04,2014-11-16,TRUE
+Fort Lauderdale Florida Temple,26.070899,-80.355727,"26°4'15""N","80°21'20""W",3901 SW 154th Avenue,Davie,Florida,33331,United States,(+1) 954-382-8390,2,3,1,30500,16.82,2009-10-03,2011-06-18,2014-05-04,TRUE
+Trujillo Peru Temple,-8.100149,-79.058515,"8°6'0""S","79°3'30""W",Av. Mansiche Km 35 Carretera hacia Huanchaco,Trujillo,La Libertad,NA,Peru,(+51) 44-602-130,2,2,1,28200,8.9,2008-12-13,2011-09-14,2015-06-21,FALSE
+Philadelphia Pennsylvania Temple,39.959174,-75.168072,"39°57'33""N","75°10'5""W",1739 Vine Street,Philadelphia,Pennsylvania,19103,United States,(+1) 215-398-3040,2,4,1,61466,1.6,2008-10-04,2011-09-17,2016-09-18,TRUE
+Payson Utah Temple,40.019258,-111.749175,"40°1'9""N","111°44'57""W",1494 South 930 West,Payson,Utah,NA,United States,(+1) 801-754-4949,3,7,1,96630,10.63,2010-01-25,2011-10-08,2015-06-07,TRUE
+Sapporo Japan Temple,43.0249,141.4457,"43°1'29""N","141°26'44""E",1-6-1 Oyachi-Nishi Atsubetsu-ku,Sapporo,Hokkaid?,004-0042,Japan,(+81) 11-890-8120,2,3,1,48480,9.8,2009-10-03,2011-10-22,2016-08-21,FALSE
+Fortaleza Brazil Temple,-3.747847,-38.46101,"3°44'52""S","38°27'39""W",Avenida Santos Dumont 7771,Fortaleza,Ceará,60177-415,Brazil,(+55) 85-3533-7150,2,2,1,36000,10,2009-10-03,2011-11-15,2019-06-02,FALSE
+Provo City Center Temple,40.232667,-111.659299,"40°13'57""N","111°39'33""W",50 South University Avenue,Provo,Utah,84601,United States,(+1) 801-343-2700,3,5,1,85084,5.6,2011-10-01,2012-05-12,2016-03-20,TRUE
+Tijuana Mexico Temple,32.488713,-116.929441,"32°29'19""N","116°55'45""W",Paseo Del Rio 6832 Esquina Campestre Oriente Col 3 RA Etapa Rio Tijuana,Tijuana,Baja California,22226,Mexico,(+52) 664-969-2690,2,2,1,33367,9.4,2010-10-02,2012-08-18,2015-12-13,FALSE
+Paris France Temple,48.817892,2.123171,"48°49'4""N","2°7'23""E",46 Boulevard Saint-Antoine 15-21 rue du General Welvert,Le Chesnay,NA,78150,France,(+33) 970-73-70-00,2,3,1,44175,2.26,2011-10-01,2012-08-24,2017-05-21,FALSE
+Indianapolis Indiana Temple,39.955588,-86.165741,"39°57'20""N","86°9'56""W",11565 Temple Dr,Carmel,Indiana,NA,United States,(+1) 317-993-3800,2,2,1,34000,18.11,2010-10-02,2012-09-29,2015-08-23,TRUE
+Hartford Connecticut Temple,41.737552,-72.844666,"41°44'15""N","72°50'40""W",2 Central Way,Farmington,Connecticut,06032,United States,(+1) 860-773-7200,2,2,1,32246,11.3,2010-10-02,2013-08-17,2016-11-20,TRUE
+Fort Collins Colorado Temple,40.494269,-105.038685,"40°29'39""N","105°2'19""W",2180 Majestic Drive,Fort Collins,Colorado,NA,United States,(+1) 970-797-4630,2,3,1,42000,15.69,2011-04-02,2013-08-24,2016-10-16,TRUE
+Meridian Idaho Temple,43.671022,-116.415115,"43°40'15""N","116°24'54""W",7355 North Linder Road,Meridian,Idaho,NA,United States,(+1) 208-957-7300,3,5,1,67331,15.73,2011-04-02,2014-08-23,2017-11-19,TRUE
+Star Valley Wyoming Temple,42.712073,-110.932532,"42°42'43""N","110°55'57""W",885 South Washington Street,Afton,Wyoming,NA,United States,(+1) 307-886-6820,1,1,1,18609,43.6,2011-10-01,2015-04-25,2016-10-30,TRUE
+Cedar City Utah Temple,37.671734,-113.096271,"37°40'18""N","113°5'46""W",280 S Cove Dr,Cedar City,Utah,84720,United States,(+1) 435-572-4150,2,3,1,42657,9.5,2013-04-06,2015-08-08,2017-12-10,TRUE
+Concepción Chile Temple,-36.851499,-73.049966,"36°51'5""S","73°2'59""W",1525 Pedro de Valdivia,Concepción,Bío-Bío,NA,Chile,(+56) 41-383-4700,2,2,1,23095,4.06,2009-10-03,2015-10-17,2018-10-28,FALSE
+Tucson Arizona Temple,32.338454,-110.949174,"32°20'18""N","110°56'57""W",7281 N Skyline Dr,Tucson,Arizona,85718,United States,(+1) 520-395-3900,2,2,1,38216,7,2012-10-06,2015-10-17,2017-08-13,TRUE
+Lisbon Portugal Temple,38.779187,-9.098784,"38°46'45""N","9°5'55""W",Avenida Dom João II 1990-364 Moscavide,Lisbon,NA,NA,Portugal,(+351) 308-811-650,NA,NA,NA,23730,4.6,2010-10-02,2015-12-05,2019-09-15,FALSE
+Kinshasa Democratic Republic of the Congo Temple,-4.327478,15.27371,"4°19'38""S","15°16'25""E",Avenue de l'OUA Commune de Ngaliema,Kinshasa,NA,NA,Democratic Republic of the Congo,(+243) 815-590-060,1,1,1,12000,5,2011-10-01,2016-02-12,2019-04-14,FALSE
+Barranquilla Colombia Temple,11.016798,-74.86261,"11°1'0""N","74°51'45""W",Carrera 30 No. 1-1481 Villa Campestre,Barranquilla,Atlántico,NA,Colombia,(+57) 5-310-0200,NA,NA,NA,24000,NA,2011-10-01,2016-02-20,2018-12-09,FALSE
+Durban South Africa Temple,-29.708455,31.073671,"29°42'30""S","31°4'25""E",2 Izinga Drive Izinga Ridge,Umhlanga,KwaZulu-Natal,4021,South Africa,(+27) 31-140-024,1,1,1,19860,14.49,2011-10-01,2016-04-09,2020-02-16,FALSE
+Winnipeg Manitoba Temple,49.800544,-97.195212,"49°48'1""N","97°11'42""W",2 Centre Street,Winnipeg,Manitoba,NA,Canada,NA,NA,NA,NA,NA,NA,2011-04-02,2016-12-03,NA,FALSE
+Arequipa Peru Temple,-16.375203,-71.538477,"16°22'30""S","71°32'18""W",Avenida Cusco 380 Carmen Alto,Arequipa,Arequipa,NA,Peru,(+51) 54-640-300,NA,NA,NA,26969,7.91,2012-10-06,2017-03-04,2019-12-15,FALSE
+Rio de Janeiro Brazil Temple,-23.000894,-43.399918,"23°0'3""S","43°23'59""W",Avenida das Américas 8547 Barra da Tijuca,Rio de Janeiro,Rio de Janeiro,22621-120,Brazil,NA,NA,NA,NA,NA,NA,2013-04-06,2017-03-04,NA,FALSE
+Port-au-Prince Haiti Temple,18.529017,-72.268143,"18°31'44""N","72°16'5""W",Route de Freres Delmas 105 Petionville,Port-au-Prince,NA,NA,Haiti,(+509) 2262-5810,1,1,1,10396,NA,2015-04-05,2017-10-28,2019-09-01,FALSE
+Abidjan Côte d'Ivoire Temple,5.362307,-3.976865,"5°21'44""N","3°58'36""W",NA,Abidjan,NA,NA,Cote d'Ivoire,NA,NA,NA,NA,NA,NA,2015-04-05,2018-11-08,NA,FALSE
+Urdaneta Philippines Temple,15.938567,120.581762,"15°56'18""N","120°34'54""E",MacArthur Highway,Urdaneta,NA,NA,Philippines,NA,NA,NA,NA,NA,NA,2010-10-02,2019-01-16,NA,FALSE
+Bangkok Thailand Temple,13.749491,100.562527,"13°44'58""N","100°33'45""E",1645/6 New Petchaburi Road Makkasan Ratchathewi,Bangkok,NA,10400,Thailand,NA,NA,NA,NA,NA,NA,2015-04-05,2019-01-26,NA,FALSE
+Pocatello Idaho Temple,42.915259,-112.406374,"42°54'54""N","112°24'22""W",3100 Butte Street,Pocatello,Idaho,83201,United States,NA,NA,NA,NA,NA,NA,2017-04-02,2019-03-16,NA,TRUE
+Praia Cabo Verde Temple,14.918789,-23.511157,"14°55'7""N","23°30'40""W",Av. Cidade de Lisboa,Praia,NA,NA,Cape Verde,NA,NA,NA,NA,NA,NA,2018-10-07,2019-05-04,NA,FALSE
+San Juan Puerto Rico Temple,18.385623,-66.029896,"18°23'8""N","66°1'47""W",123 Calle Ronda Urbanización Villa Andalucía,San Juan,NA,00926,Puerto Rico,NA,NA,NA,NA,NA,NA,2018-10-07,2019-05-04,NA,FALSE
+Yigo Guam Temple,13.541741,144.890143,"13°32'30""N","144°53'24""E",Marine Corps Drive and Milalak Drive,Yigo,NA,NA,Guam,NA,NA,NA,NA,NA,NA,2018-10-07,2019-05-04,NA,FALSE
+Quito Ecuador Temple,-0.213711,-78.441018,"-0°12'49""N","78°26'27""W",NA,Cumbayá,NA,NA,Ecuador,NA,NA,NA,NA,NA,NA,2016-04-03,2019-05-11,NA,FALSE
+Lima Peru Los Olivos Temple,-12.019992,-77.054237,"12°1'11""S","77°3'15""W",Eloy Espinoza Urbanización Ingenieria San Martín de Porres,Lima,Lima,NA,Peru,NA,NA,NA,NA,NA,NA,2016-04-03,2019-06-08,NA,FALSE
+Belém Brazil Temple,-1.387242,-48.459894,"1°23'14""S","48°27'35""W",Av. Centenário Val de Caes,Belém,Pará,NA,Brazil,NA,NA,NA,NA,NA,NA,2016-04-03,2019-08-17,NA,FALSE
+Saratoga Springs Utah Temple,40.343707,-111.933257,"40°20'37""N","111°55'59""W",987 South Ensign Drive,Saratoga Springs,Utah,NA,United States,NA,NA,NA,NA,NA,NA,2017-04-02,2019-10-19,NA,TRUE
+Puebla Mexico Temple,19.085418,-98.235514,"19°5'7""N","98°14'7""W",15 de Mayo Los Cipreses,Puebla,NA,NA,Mexico,NA,NA,NA,NA,NA,NA,2018-10-07,2019-11-30,NA,FALSE
+Richmond Virginia Temple,37.672884,-77.535372,"37°40'22""N","77°32'7""W",10915 Staples Mill Rd,Glen Allen,Virginia,NA,United States,NA,NA,NA,NA,NA,NA,2018-04-01,2020-04-11,NA,TRUE
+Layton Utah Temple,41.061699,-111.938379,"41°3'42""N","111°56'18""W",1400 East Oakhills Drive (approximate),Layton,Utah,84040,United States,NA,NA,NA,NA,NA,NA,2018-04-01,2020-05-23,NA,TRUE
+Alabang Philippines Temple,14.412913,121.037838,"14°24'46""N","121°2'16""E",Filinvest Avenue and Corporate Avenue Alabang,Muntinlupa,Metro Manila,NA,Philippines,NA,NA,NA,NA,NA,NA,2017-04-02,2020-06-04,NA,FALSE
+Auckland New Zealand Temple,-36.993227,174.890191,"36°59'35""S","174°53'24""E",Redoubt Road Manukau,Auckland,NA,NA,New Zealand,NA,NA,NA,NA,NA,NA,2018-10-07,2020-06-13,NA,FALSE
+Feather River California Temple,39.146344,-121.639963,"39°8'46""N","121°38'23""W",1470 Butte House Road,Yuba City,California,95993,United States,NA,NA,NA,NA,NA,NA,2018-10-07,2020-07-18,NA,TRUE
+Orem Utah Temple,40.270755,-111.720916,"40°16'14""N","111°43'15""W",1471 South Geneva Road (approximate),Orem,Utah,NA,United States,NA,NA,NA,NA,NA,NA,2019-10-05,2020-09-05,NA,TRUE
+San Pedro Sula Honduras Temple,15.522544,-88.036856,"15°31'21""N","88°2'12""W",Bulevar Mario Catarino Rivas,San Pedro Sula,Cortés,NA,Honduras,NA,NA,NA,NA,NA,NA,2019-04-07,2020-09-05,NA,FALSE
+Brasília Brazil Temple,-15.747835,-47.880945,"15°44'52""S","47°52'51""W",GA/Norte Quadra 612 ? Lote,Brasília,Distrito Federal,NA,Brazil,NA,NA,NA,NA,NA,NA,2017-04-02,2020-09-26,NA,FALSE
+Moses Lake Washington Temple,47.103441,-119.272362,"47°6'12""N","119°16'20""W",NA,Moses Lake,Washington,NA,United States,NA,NA,NA,NA,NA,NA,2019-04-07,2020-10-10,NA,TRUE
+Taylorsville Utah Temple,40.66671159,-111.95411,"40°40'0""N","111°57'14""W",2603 West 4700 South,Taylorsville,Utah,NA,United States,NA,NA,NA,NA,NA,NA,2019-10-05,2020-10-31,NA,TRUE
+Salta Argentina Temple,-24.837197,-65.470001,"24°50'13""S","65°28'12""W",Ruta 51,Salta,NA,NA,Argentina,NA,NA,NA,NA,NA,NA,2018-04-01,2020-11-04,NA,FALSE
+Bentonville Arkansas Temple,36.384867,-94.181319,"36°23'5""N","94°10'52""W",1101 McCollum Drive,Bentonville,Arkansas,NA,United States,NA,NA,NA,NA,NA,NA,2019-10-05,2020-11-07,NA,TRUE
+Red Cliffs Utah Temple,37.082184,-113.519741,"37°4'55""N","113°31'11""W",Northeast of 3000 E and 1580 S,St. George,Utah,NA,United States,NA,NA,NA,NA,NA,NA,2018-10-07,2020-11-07,NA,TRUE
+Cobán Guatemala Temple,15.459077,-90.365166,"15°27'32""N","90°21'54""W",4a. Avenida 4-48 Zona 8 Barrio Bella Vista,Cobán,Alta Verapaz,NA,Guatemala,NA,NA,NA,NA,NA,NA,2019-10-05,2020-11-14,NA,FALSE
+Davao Philippines Temple,7.088597,125.579755,"7°5'18""N","125°34'47""E",Ma-a Road and Anahaw Road Barangay Ma-a,Davao City,Davao del Sur,8000,Philippines,NA,NA,NA,NA,NA,NA,2018-10-07,2020-11-14,NA,FALSE
+McAllen Texas Temple,26.268118,-98.211125,"26°16'5""N","98°12'40""W",300 West Trenton Road,McAllen,Texas,NA,United States,NA,NA,NA,NA,NA,NA,2019-10-05,2020-11-21,NA,TRUE
+Antofagasta Chile Temple,-23.571891,-70.394525,"23°34'18""S","70°23'40""W",Avenida de Las Palmeras 44,Antofagasta,NA,NA,Chile,NA,NA,NA,NA,NA,NA,2019-04-07,2020-11-27,NA,FALSE
+Bengaluru India Temple,12.992096,77.704714,"12°59'31""N","77°42'16""E",2-B Whitefield Main Road Garudachar Palya Mahadevapura,Bengaluru,Karnataka,560048,India,NA,NA,NA,NA,NA,NA,2018-04-01,2020-12-02,NA,FALSE
+Okinawa Japan Temple,26.358285,127.801718,"26°21'29""N","127°48'6""E",7-11 Matsumoto,Okinawa Shi,Okinawa-ken,NA,Japan,NA,NA,NA,NA,NA,NA,2019-04-07,2020-12-05,NA,FALSE
+Harare Zimbabwe Temple,-17.804085,31.082426,"17°48'14""S","31°4'56""E",65 Enterprise Road Highlands,Harare,NA,NA,Zimbabwe,NA,NA,NA,NA,NA,NA,2016-04-03,2020-12-12,NA,FALSE
+Mendoza Argentina Temple,-32.863757,-68.881592,"32°51'49""S","68°52'53""W",Avenida Champagnat,Las Heras,Mendoza,NA,Argentina,NA,NA,NA,NA,NA,NA,2018-10-07,2020-12-17,NA,FALSE
+Bahía Blanca Argentina Temple,-38.69117,-62.235937,"38°41'28""S","62°14'9""W",NA,Bahia Blanca,NA,NA,Argentina,NA,NA,NA,NA,NA,NA,2020-04-05,NA,NA,FALSE
+Deseret Peak Utah Temple,40.570243,-112.31522,"40°34'12""N","112°18'54""W",West of 2400 North 400 West,Tooele,Utah,84074,United States,NA,NA,NA,NA,NA,NA,2019-04-07,NA,NA,TRUE
+Lindon Utah Temple,40.33717851,-111.695189,"40°20'13""N","111°41'42""W",Near 800 East and Center Street,Lindon,Utah,NA,United States,NA,NA,NA,NA,NA,NA,2020-10-04,NA,NA,TRUE
+Neiafu Tonga Temple,-18.64422855,-173.9776,"18°38'39""S","173°58'39""W",Tu?I Road,Neiafu,Vava'u,NA,Tonga,NA,NA,NA,NA,NA,NA,2019-04-07,NA,NA,FALSE
+Pago Pago American Samoa Temple,-14.333959,-170.73199,"14°20'2""S","170°43'55""W",Ottoville Road,Tafuna,Western District,96799,American Samoa,NA,NA,NA,NA,NA,NA,2019-04-07,NA,NA,FALSE
+Phnom Penh Cambodia Temple,11.569891,104.895707,"11°34'11""N","104°53'44""E",Russian Confederation Street,Phnom Penh,NA,NA,Cambodia,NA,NA,NA,NA,NA,NA,2018-10-07,NA,NA,FALSE
+Pittsburgh Pennsylvania Temple,40.69404827,-80.140918,"40°41'38""N","80°8'27""W",2093 Powell Road,Cranberry Township,Pennsylvania,16066,United States,NA,NA,NA,NA,NA,NA,2020-04-05,NA,NA,TRUE
+Port Moresby Papua New Guinea Temple,-9.477474,147.176546,"9°28'38""S","147°10'35""E",Muniogo Crescent Badili,Port Moresby,NA,NA,Papua New Guinea,NA,NA,NA,NA,NA,NA,2019-10-05,NA,NA,FALSE
+Salvador Brazil Temple,-12.929251,-38.386386,"12°55'45""S","38°23'10""W",NA,Salvador,Bahia,NA,Brazil,NA,NA,NA,NA,NA,NA,2018-10-07,NA,NA,FALSE
+Syracuse Utah Temple,41.099938,-112.076542,"41°5'59""N","112°4'35""W",2500 West and 1025 South,Syracuse,Utah,NA,United States,NA,NA,NA,NA,NA,NA,2020-04-05,NA,NA,TRUE
+Tallahassee Florida Temple,30.520117,-84.238222,"30°31'12""N","84°14'17""W",2440 Papillon Way,Tallahassee,Florida,NA,United States,NA,NA,NA,NA,NA,NA,2020-04-05,NA,NA,TRUE
+Bacolod Philippines Temple,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-10-05,NA,NA,NA
+Benin City Nigeria Temple,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020-04-05,NA,NA,NA
+Budapest Hungary Temple,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-04-07,NA,NA,NA
+Cagayan de Oro Philippines Temple,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-04-01,NA,NA,NA
+Dubai United Arab Emirates Temple,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020-04-05,NA,NA,NA
+Freetown Sierra Leone Temple,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-10-05,NA,NA,NA
+Greater Guatemala City Guatemala Temple,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020-10-04,NA,NA,NA
+Lagos Nigeria Temple,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-10-07,NA,NA,NA
+Lubumbashi Democratic Republic of the Congo Temple,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020-04-05,NA,NA,NA
+Managua Nicaragua Temple,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-04-01,NA,NA,NA
+Nairobi Kenya Temple,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2017-04-02,NA,NA,NA
+Port Vila Vanuatu Temple,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020-10-04,NA,NA,NA
+Russia Temple,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2018-04-01,NA,NA,NA
+Santa Cruz Bolivia Temple,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020-10-04,NA,NA,NA
+São Paulo Brazil East Temple,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020-10-04,NA,NA,NA
+Shanghai China Temple,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020-04-05,NA,NA,NA
+Tarawa Kiribati Temple,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020-10-04,NA,NA,NA
