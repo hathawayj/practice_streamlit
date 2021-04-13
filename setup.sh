@@ -1,8 +1,7 @@
-mkdir -p ~/.streamlit
+mkdir -p ~/.streamlit/
 
-echo "\
-[general]\n\
-email = \"hathawayj@byui.edu\"\n\
+echo "[general]
+email = \"hathawayj@byui.edu\"
 " > ~/.streamlit/credentials.toml
 
 echo "[server]
