@@ -8,6 +8,7 @@ Streamlit has guidance on [how to clean install Streamlit](https://docs.streamli
 - https://gilberttanner.com/blog/deploying-your-streamlit-dashboard-with-heroku
 - https://blog.streamlit.io/deploying-streamlit-apps-using-streamlit-sharing/
 - https://joshuacook.netlify.app/post/streamlit-app-heroku/
+- https://blog.jcharistech.com/2019/10/24/how-to-deploy-your-streamlit-apps-to-heroku/
 
 ## Publishing on Rstudio Connect
 
