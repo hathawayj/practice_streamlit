@@ -105,7 +105,7 @@ You can expand any chart to fill the screen by hovering in the top-right corner 
 -------
 """)
 
-st.write("#### _" + str(dat_filter.Temple.size) + "_ have been built since your birth year of " + str(age) + ".")
+st.write("__" + str(dat_filter.Temple.size) + "__ have been built since your birth year of " + str(age) + ".")
 st.write("_As you select your birth year on the side menu the counts after your birth will highlight. You can also\
     change the y-axis using the bar chart radio buttons._")
 
@@ -189,7 +189,8 @@ base = alt.layer(
 
 st.write('_This map shows all the temples built since your selected birth year.\
     Maps are unique in that everyone needs a projection to move from a globe to a 2D map.\
-    You can change how the globe is projected using the side menu._')
+    You can change how the globe is projected using the side menu. You can also hover over\
+    a location to see the name of the temple._')
 st.altair_chart(base.properties(title="Temples of the World"), use_container_width=True)
 
 
