@@ -3,10 +3,16 @@
 ## Installation
 
 Streamlit has guidance on [how to clean install Streamlit](https://docs.streamlit.io/en/stable/troubleshooting/clean-install.html) that works. I have tested the Mac installation process.
-
 ## Publishing on Heroku
 
-https://gilberttanner.com/blog/deploying-your-streamlit-dashboard-with-heroku
+- https://gilberttanner.com/blog/deploying-your-streamlit-dashboard-with-heroku
+- https://blog.streamlit.io/deploying-streamlit-apps-using-streamlit-sharing/
+- https://joshuacook.netlify.app/post/streamlit-app-heroku/
+
+## Publishing on Rstudio Connect
+
+- https://docs.rstudio.com/connect/user/streamlit/
+
 ## References
 
 - https://towardsdatascience.com/how-to-deploy-a-semantic-search-engine-with-streamlit-and-docker-on-aws-elastic-beanstalk-42ddce0422f3
