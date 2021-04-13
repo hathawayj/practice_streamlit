@@ -3,4 +3,4 @@ pandas
 streamlit
 vega_datasets
 numpy
-plotnine
+
