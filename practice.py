@@ -6,6 +6,7 @@ import streamlit as st
 import pandas as pd 
 import altair as alt 
 import numpy as np 
+import base64
 
 from vega_datasets import data
 
@@ -80,7 +81,7 @@ st.sidebar.image('rexburg.jpg')
 st.sidebar.write('A visual project using Python, Streamlit, and Altair')
 age = st.sidebar.slider("Choose your Birth Year:", min_value=1830,
     max_value=2015, value=1830, step = 1)
-ybar = st.sidebar.radio("Choose your barchart y-axis", ['counts', 'sqft', 'acre'])
+ybar = st.sidebar.radio("Choose your bar chart y-axis", ['counts', 'sqft', 'acre'])
 yaxis = st.sidebar.radio("Choose your scatterplot y-axis", ycolumns)
 proj = st.sidebar.selectbox("Choose your world projection.", projections)
 state_select = st.sidebar.selectbox("Choose your state", snames)
@@ -93,11 +94,19 @@ dat_filter = dat.query("Announcement > @age_date")
 # %%
 st.write("""
 # Temples of the World
-_J. Hathaway_
+## _J. Hathaway_
+-------
+### This display lets you interact with charts about temples from The Church of Jesus Christ of Latter-day Saints.
+
+_The data is taken from [churchofjesuschristtemples.org](https://churchofjesuschristtemples.org/statistics/).\
+You can expand any chart to fill the screen by hovering in the top-right corner of the chart._
+
 -------
 """)
 
-st.write("__" + str(dat_filter.Temple.size) + "__ have been built since your birth year of " + str(age) + ".")
+st.write("#### _" + str(dat_filter.Temple.size) + "_ have been built since your birth year of " + str(age) + ".")
+st.write("_As you select your birth year on the side menu the counts after your birth will highlight. You can also\
+    change the y-axis using the bar chart radio buttons._")
 
 # %%
 bc = alt.Chart(dat_bar \
@@ -128,6 +137,9 @@ d = c.encode(
         color = alt.Color('Country', legend=None, scale=alt.Scale(domain = cnames))) + \
         c.transform_loess('Announcement', yaxis, bandwidth = .3) \
             .mark_line(size = 2, color = 'black', opacity=.6)
+
+st.write("_This chart will scale based on your birth year as well. Using the scatterplot radio buttons will\
+    allow you to change the y-axis. You can also hover over the points to see the temple name and square footage._")
 
 st.altair_chart(d.configure_axis(labelFontSize=18, 
     titleFontSize=18) \
@@ -174,7 +186,9 @@ base = alt.layer(
 # )
 
 
-
+st.write('_This map shows all the temples built since your selected birth year.\
+    Maps are unique in that everyone needs a projection to move from a globe to a 2D map.\
+    You can change how the globe is projected using the side menu._')
 st.altair_chart(base.properties(title="Temples of the World"), use_container_width=True)
 
 
@@ -211,9 +225,17 @@ base_usa = alt.layer(
     btext
 ).project('albersUsa').properties(width='container', height=400).configure_view(stroke=None)
 
-
+st.write('_This map shows all the temples built in the U.S. since your selected birth year.\
+    You can see the count of temples in a specific state by picking your state in the side menu._')
 st.altair_chart(base_usa.properties(title="Temples of the USA: " + str(dat_state.counts.sum()) + " in " + state_select), use_container_width=True)
 
 
 # %%
+st.write('_Finally, this table displays the data used for the above graphics._')
+
 st.dataframe(dat_filter.style.set_precision(0))
+
+csv = dat_filter.to_csv(index=False)
+b64 = base64.b64encode(csv.encode()).decode()  # some strings <-> bytes conversions necessary here
+href = f'<a href="data:file/csv;base64,{b64}">Download CSV File</a> (right-click and save as &lt;some_name&gt;.csv)'
+st.markdown(href, unsafe_allow_html=True)
