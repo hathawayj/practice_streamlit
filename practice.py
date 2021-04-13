@@ -95,9 +95,12 @@ dat_filter = dat.query("Announcement > @age_date")
 st.write("""
 # Temples of the World
 ## _J. Hathaway_
--------
-### This display lets you interact with charts about temples from The Church of Jesus Christ of Latter-day Saints.
 
+-------
+
+### This display lets you interact with charts about temples from The Church of Jesus Christ of Latter-day Saints.
+   
+   
 _The data is taken from [churchofjesuschristtemples.org](https://churchofjesuschristtemples.org/statistics/).\
 You can expand any chart to fill the screen by hovering in the top-right corner of the chart._
 
